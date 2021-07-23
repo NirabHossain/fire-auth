@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.App img{
+  width: 50%;
+}
+button{
+  background-color: goldenrod;
+  padding: 20px 50px;
+  margin-top: 20px;
+  border: 1px solid  goldenrod;
+  border-radius: 30px;
+}
